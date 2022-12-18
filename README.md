@@ -6,7 +6,7 @@
 
 ## Топология сети
 
-![](img/topo.png){}
+![](img/topo.png)
 
 ## Решение
 
@@ -35,7 +35,7 @@ python3.8 main.py
 
 Вывод программы: 
 
-![](img/solve.png){}
+![](img/solve.png)
 
 Значения $B^*_k$:
 
